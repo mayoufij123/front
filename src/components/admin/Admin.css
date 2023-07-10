@@ -1,0 +1,132 @@
+.list {
+    margin-left: 360px;
+    position: absolute;
+    margin-top: 800px;
+}
+
+.left {
+    background: rebeccapurple;
+    position: fixed;
+    width: 190px;
+    margin-top: 100px;
+}
+
+.h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: -700px;
+    color: black;
+    font-size: large;
+}
+
+.h2 {
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+hr {
+    margin-left: -350px;
+    border: solid;
+    margin-top: 20px;
+}
+
+.jk {
+    color: brown;
+    position: absolute;
+    margin-left: 250px;
+    z-index: -1;
+}
+
+.ba {
+    margin-top: 30px;
+}
+
+.p {
+    margin-top: 500px;
+}
+
+.left a {
+    display: block;
+    margin: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+a:hover {
+    color: aqua;
+}
+
+.ajou {
+    margin-left: 100px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.pp {
+    margin: 10px;
+    margin-top: -300px;
+    margin-left: 100px;
+}
+
+;
+.h2 {
+    margin-right: 300px;
+}
+
+.ka {
+    margin-top: 100px;
+    margin: 10px;
+}
+
+input {
+    margin-right: 350px;
+    width: 500px;
+}
+
+.inp {
+    width: 700px;
+    margin-right: 400px;
+    height: 900px;
+}
+
+.vr {
+    height: 100px;
+    display: block;
+    border: 1px solid black;
+    outline: none;
+    padding: 5px 8px 5px 10px;
+}
+
+.cd {
+    display: block;
+    margin-left: -450px;
+}
+
+.sc {
+    padding: 50px;
+}
+
+.bout {
+    width: 50px;
+}
+
+#add {
+    margin-right: 400px;
+}
+
+.varte {
+    height: 50px;
+    width: 200px;
+}
+
+#h2 {
+    margin-top: 50px;
+    margin-left: -800px;
+}
+
+#parti {
+    margin-left: -2000px;
+    flex-wrap: wrap;
+}
